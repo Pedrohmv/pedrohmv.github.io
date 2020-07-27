@@ -6,8 +6,6 @@ color: Simplifying asynchronous by expressing code sequentially.
 description: On the realities of opportunity, success, reputation, and relationships in tech.
 ---
 
-# Goodbye callbacks. Hello Coroutines.
-
 Seeing an ANR(Application Not Responding) Dialog means that the UI thread has been blocked for too long. Heavy processing tasks should be done in background threads, there's some differents ways to handle this on Android.
 
 The most common need for ansynchronous programming in modern applications is performing network calls. Using Retrofit to make theses calls lead to the callback hell. Callbacks can be replaced by `lambda expresions`, however, since Callback<T> interface has two methods lambdas can't be used. Kotlin Coroutines solves this gracefully. Coroutines simplifies asynchronous by expressing the code sequentially. This post will not explain the main concepts of coroutines.
