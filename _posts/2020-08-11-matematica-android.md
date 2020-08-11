@@ -7,6 +7,7 @@ description: Utilizando a matemática como uma ferramenta no seu dia a dia de pr
 ---
 ![](https://cdn-images-1.medium.com/max/2560/1*DW6fDsUZRmlM_QymBY4AQA.jpeg)
 
+
 Muito provavelmente em algum momento de sua vida escolar  você já escutou ou falou o seguinte questionamento: “Porque eu tenho que aprender isso se eu nunca vou usar na minha vida?”. Muitos assuntos foram vítimas desse pensamento e muito provavelmente o teorema de pitágoras é o campeão de reclamações.
 
 > Em qualquer triângulo retângulo, o quadrado do comprimento da hipotenusa é igual à soma dos quadrados dos comprimentos dos catetos.
