@@ -2,8 +2,8 @@
 title: Goodbye callbacks. Hello Coroutines.
 tags: [Android, Kotlin, Coroutines]
 style: 
-color: Simplifying asynchronous by expressing code sequentially.
-description: On the realities of opportunity, success, reputation, and relationships in tech.
+color: 
+description: Simplifying asynchronous by expressing code sequentially.
 ---
 
 Seeing an ANR(Application Not Responding) Dialog means that the UI thread has been blocked for too long. Heavy processing tasks should be done in background threads, there's some differents ways to handle this on Android.
