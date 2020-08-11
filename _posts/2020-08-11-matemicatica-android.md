@@ -13,7 +13,7 @@ Muito provavelmente em algum momento de sua vida escolar  você já escutou ou f
 
 ![](https://cdn-images-1.medium.com/max/800/1*eV4odP2jqjF2b66FMapuXQ.gif)
 
-Uma aplicação do teorema é no cálculo da distância entre dois pontos em um plano cartesiano, onde um dos catetos será $(x_2 - x_1)$  e o outro será $(y_2 - y_1)$.
+Uma aplicação do teorema é no cálculo da distância entre dois pontos em um plano cartesiano, onde um dos catetos será (x2 - x1) e o outro será (y2 - y1).
 
 ![](https://cdn-images-1.medium.com/max/800/1*se0ftrCe1q7CqDd8Keyqjg.png)
 
